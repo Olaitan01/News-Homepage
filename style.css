@@ -188,6 +188,7 @@ hr {
   }
   .header-nav a:hover {
     text-decoration: line-through;
+    border-bottom: none;
   }
   main {
     margin: 0 2rem;
@@ -206,7 +207,7 @@ hr {
     display: initial;
   }
   .item-3 {
-    width: 50%;
+    width: 45%;
     font-size: 1rem;
   }
 }
